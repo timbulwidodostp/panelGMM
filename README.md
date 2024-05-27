@@ -3,6 +3,8 @@ General Method of Moments estimators for panel data Use panelGMM With (In) R Sof
 
 Estimates one-step and two-step GMM-IV linear models for panel data Use panelGMM With (In) R Software
 
+https://www.youtube.com/watch?v=LJGNcryPLgY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
